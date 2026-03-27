@@ -7,7 +7,7 @@ function App() {
       <h1 className='mb-4'>
         Hello world!
       </h1>
-      <p>Muhammad Ahsan Ayaz</p>
+      <p>Muhammad Asif Pansuvi </p>
     </>
   )
 }
